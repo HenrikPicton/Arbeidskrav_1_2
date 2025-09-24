@@ -2,6 +2,7 @@
 title: "quarto_arbkrav_1_2"
 format: html
 editor: visual
+bibliography: references.bib
 ---
 
 ## yes
